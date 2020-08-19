@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListenTube", "ListenTube\ListenTube.csproj", "{81410F59-8B83-47FC-AC80-C1ED260955FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81410F59-8B83-47FC-AC80-C1ED260955FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81410F59-8B83-47FC-AC80-C1ED260955FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81410F59-8B83-47FC-AC80-C1ED260955FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81410F59-8B83-47FC-AC80-C1ED260955FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DAA2700-4FE4-4506-AE14-8062A3130EF3}
+	EndGlobalSection
+EndGlobal
